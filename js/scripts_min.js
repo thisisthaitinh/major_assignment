@@ -1,3 +1,4 @@
+// function for news details, buttons and more
 "use strict";
 jQuery(document).ready(function (n) {
      var a, e = n(".sticky");
